@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Damageable
+  - Box
+  - Chest
+  - Wall
+  - Fire
+  - EnemyShooter
+  - EnemyStopper
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Player
+  - Objects
+  - Enemies
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 3455194971
+    locked: 0
+  - name: Objects
+    uniqueID: 2155918507
+    locked: 0
+  - name: Platforms
+    uniqueID: 905094307
+    locked: 0
+  - name: Player
+    uniqueID: 320531435
+    locked: 0
+  - name: UI
+    uniqueID: 2911212719
+    locked: 0
